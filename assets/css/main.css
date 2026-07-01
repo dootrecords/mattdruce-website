@@ -1,0 +1,121 @@
+{
+    margin0;
+    padding0;
+    box-sizingborder-box;
+}
+
+body{
+
+    background#9d0000;
+    color#f8f8e8;
+    font-family'Playfair Display',serif;
+
+    min-height100vh;
+
+    displayflex;
+    flex-directioncolumn;
+
+}
+
+ ---------------- NAV ---------------- 
+
+nav{
+
+    displayflex;
+    justify-contentcenter;
+    gap10px;
+
+    padding20px;
+
+}
+
+nav button{
+
+    backgroundwhite;
+    color#333;
+
+    border3px solid #222;
+    border-radius8px;
+
+    padding12px 18px;
+
+    cursorpointer;
+
+    font-familysans-serif;
+
+    box-shadow4px 4px 0 black;
+
+    transition.15s;
+
+}
+
+nav buttonhover{
+
+    transformtranslateY(-2px);
+
+}
+
+ ---------------- MAIN ---------------- 
+
+main{
+
+    widthmin(700px,90%);
+    marginauto;
+
+    text-aligncenter;
+
+}
+
+.intro{
+
+    text-alignleft;
+    font-weightbold;
+    margin-bottom18px;
+
+}
+
+hr{
+
+    bordernone;
+    height2px;
+    background#e6e3cf;
+
+    margin14px 0;
+
+}
+
+h1{
+
+    font-size6rem;
+    font-weight400;
+    line-height1;
+
+}
+
+h2{
+
+    font-size3rem;
+    font-weight400;
+
+}
+
+img{
+
+    width330px;
+    margin-top30px;
+
+}
+
+ ---------------- FOOTER ---------------- 
+
+footer{
+
+    text-aligncenter;
+    font-familysans-serif;
+    font-size.75rem;
+
+    color#d8d8d8;
+
+    padding18px;
+
+}
