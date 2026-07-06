@@ -11,8 +11,6 @@ body{
 
 }
 
- ---------------- NAV ---------------- 
-
 nav{
 
     display: flex;
@@ -43,15 +41,13 @@ nav button{
 
 }
 
-nav buttonhover{
+nav button:hover{
 
     transform: translateY(-2px);
 
 }
 
- ---------------- MAIN ---------------- 
-
-main{
+n{
 
     width: min(700px,90%);
     margin: auto;
@@ -92,8 +88,6 @@ img{
     margin-top: 30px;
 
 }
-
- ---------------- FOOTER ---------------- 
 
 footer{
 
