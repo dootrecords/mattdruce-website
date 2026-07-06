@@ -3,7 +3,7 @@ body{
     background: #9d0000;
     color: #f8f8e8;
     font-family: 'Playfair Display',serif;
-
+    text-align: center;
     min-height: 100vh;
 
     display: flex;
