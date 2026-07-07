@@ -2,7 +2,7 @@ body{
 
     background: #f8f8e8;
     color: #8f0000;
-    font-family: 'Playfair Display',serif;
+    font-family: "Arsenal", sans-serif;
     text-align: center;
     min-height: 100vh;
 
@@ -84,9 +84,9 @@ h1{
 
 h2{
 
-    font-family: "Arsenal", sans-serif;
+    font-size: 3rem;
     font-weight: 400;
-    font-style: normal;
+    text-align: center;
 }
 
 img{
