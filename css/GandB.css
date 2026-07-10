@@ -1,7 +1,7 @@
 body{
 
     background: #f8f8e8;
-    color: #EBEBEB;
+    color: #FF0000;
     font-family: "Cambria", sans-serif;
     text-align: center;
     font-weight: bold;
@@ -80,6 +80,7 @@ h1{
     font-weight: 400;
     line-height: 1;
     text-align: center;
+    color: #FF0000;
 
 }
 
