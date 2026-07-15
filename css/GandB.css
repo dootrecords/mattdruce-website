@@ -17,10 +17,6 @@ body{
     color: inherit;
 }
 
-p.bodytext{
-    color: #333;
-    margin: 200px 0;
-}
 
 nav{
 
@@ -99,13 +95,17 @@ h2{
 
 .container {
   border: 5px solid blue;
-  margin: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 25%;
+  margin-right: 25%;
 }
 
 p {
   border: 5px solid rebeccapurple;
   background-color: lightgray;
   padding: 10px;
+  font-size: 1.5rem;
 }
 .one {
   margin-bottom: 50px;
