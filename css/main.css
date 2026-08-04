@@ -150,6 +150,13 @@ img{
 
 }
 
+@media (max-width: 768px) {
+  img {
+    width: 80%;
+    max-width: 300px;
+  }
+}
+
 footer{
 
     text-align: center;
