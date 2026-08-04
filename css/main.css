@@ -144,10 +144,11 @@ p{
 }
 
 img{
-
-    width: 330px;
-    margin-top: 10px;
-
+    width:100%;
+    max-width:330px;
+    height:auto;
+    display:block;
+    margin:auto;
 }
 
 @media (max-width: 768px) {
