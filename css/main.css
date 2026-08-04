@@ -193,3 +193,8 @@ footer{
     max-width: 330px;
     height: auto;
 }
+
+.column img.lessons-logo {
+    width: 75%;
+    max-width: 250px;
+}
